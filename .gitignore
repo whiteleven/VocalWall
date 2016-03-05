@@ -24,3 +24,7 @@ ExportedObj/
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
+
+# VOCALOID (because some files are large.)
+/Assets/VOCALOID_SDK
+/Assets/StreamingAssets/VOCALOID
